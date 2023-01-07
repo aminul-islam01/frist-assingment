@@ -175,3 +175,7 @@ input[type=email]{
     background: transparent;
     margin-bottom: 20px;
 }
+.future a{
+    text-decoration: none;
+    margin-right: 10px;
+}
