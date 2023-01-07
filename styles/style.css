@@ -123,7 +123,7 @@ main{
 .contact-btn{
     font-size: 20px;
     font-weight: 700;
-    padding: 20px 25px;
+    padding: 20px 30px;
     color: #F15B22;
     background: #fff;
     border-radius: 5px;
@@ -174,6 +174,7 @@ input[type=email]{
     color: #fff;
     background: transparent;
     margin-bottom: 20px;
+    width: 300px;
 }
 .future a{
     text-decoration: none;
